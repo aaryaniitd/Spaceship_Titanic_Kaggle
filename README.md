@@ -2,7 +2,7 @@
 My model for the famous Kaggle Competition - Spaceship Titanic.
 
 
-My model's accuracy is *78.6%* with the Leaderboard Top score standing at 85.27%.
+My model's accuracy is **78.6%** with the Leaderboard Top score standing at 85.27%.
 
 Process:
 1. Cleaning Data ("train.csv") : Filling nan cells with mean values and selecting only 'k' best features (followed in next point).
